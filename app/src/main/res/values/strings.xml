@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AyuSaraswati_1202154290_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Dina</item>
+        <item>Rian</item>
+        <item>Gina</item>
+        <item>Osas</item>
+        <item>Reno</item>
+        <item>Lina</item>
+        <item>Roi</item>
+        <item>Shifa</item>
+        <item>Baba</item>
+        <item>Bibi</item>
+        <item>Bubu</item>
+        <item>Caca</item>
+        <item>Cici</item>
+
+    </string-array>
+</resources>
